@@ -1,0 +1,8 @@
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_b\ex03_b\bin\Debug\ex03_b.exe.config
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_b\ex03_b\bin\Debug\ex03_b.exe
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_b\ex03_b\bin\Debug\ex03_b.pdb
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_b\ex03_b\obj\Debug\ex03_b.exe
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_b\ex03_b\obj\Debug\ex03_b.pdb
+D:\Faculdade\STADS\3º Semestre\PLP\Projetos\Semi-presencial (27-08)\ex03_b\ex03_b\bin\Debug\ex03_b.exe.config
+D:\Faculdade\STADS\3º Semestre\PLP\Projetos\Semi-presencial (27-08)\ex03_b\ex03_b\obj\Debug\ex03_b.exe
+D:\Faculdade\STADS\3º Semestre\PLP\Projetos\Semi-presencial (27-08)\ex03_b\ex03_b\obj\Debug\ex03_b.pdb

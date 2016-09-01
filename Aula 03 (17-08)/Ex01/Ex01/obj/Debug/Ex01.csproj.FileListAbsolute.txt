@@ -1,0 +1,12 @@
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\Ex01\bin\Debug\Ex01.exe.config
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\Ex01\bin\Debug\Ex01.exe
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\Ex01\bin\Debug\Ex01.pdb
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\Ex01\obj\Debug\Ex01.csprojResolveAssemblyReference.cache
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\Ex01\obj\Debug\Ex01.exe
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\Ex01\obj\Debug\Ex01.pdb
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\bin\Debug\Ex01.exe.config
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\obj\Debug\Ex01.exe
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\obj\Debug\Ex01.pdb
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\bin\Debug\Ex01.exe
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\bin\Debug\Ex01.pdb
+D:\Faculdade\Análise e Desenvolvimento de Sistemas\3º Semestre\PLP\Projetos\Aula 03 (17-08)\Ex01\Ex01\obj\Debug\Ex01.csprojResolveAssemblyReference.cache

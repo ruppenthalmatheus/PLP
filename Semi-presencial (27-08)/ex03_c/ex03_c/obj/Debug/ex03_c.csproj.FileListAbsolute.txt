@@ -1,0 +1,9 @@
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\bin\Debug\ex03_c.exe.config
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\bin\Debug\ex03_c.exe
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\bin\Debug\ex03_c.pdb
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\obj\Debug\ex03_c.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\obj\Debug\ex03_c.exe
+C:\Users\Matheus\Dropbox\Análise e Desenvolvimento\2-2016\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\obj\Debug\ex03_c.pdb
+D:\Faculdade\STADS\3º Semestre\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\bin\Debug\ex03_c.exe.config
+D:\Faculdade\STADS\3º Semestre\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\obj\Debug\ex03_c.exe
+D:\Faculdade\STADS\3º Semestre\PLP\Projetos\Semi-presencial (27-08)\ex03_c\ex03_c\obj\Debug\ex03_c.pdb
