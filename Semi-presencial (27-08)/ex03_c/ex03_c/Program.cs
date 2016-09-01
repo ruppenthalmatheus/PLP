@@ -21,6 +21,8 @@ namespace ex03_c
             }
         }
 
+        #region Funções
+
         static int lePositivo()
         {
             int a = 0;
@@ -52,6 +54,8 @@ namespace ex03_c
 
             return (total);
         }
+
+        #endregion
 
     }
 }
